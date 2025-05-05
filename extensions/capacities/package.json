@@ -8,6 +8,10 @@
   "contributors": [
     "xmok"
   ],
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
   "categories": [
     "Productivity",
     "Applications"

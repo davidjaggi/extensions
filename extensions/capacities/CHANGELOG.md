@@ -1,5 +1,9 @@
 # Capacities Changelog
 
+## [Enhancements] - {PR_MERGE_DATE}
+
+- Added Windows support.
+ 
 ## [Enhancements] - 2024-10-25
 
 - in `Save Daily Note` you can choose whether to append timestamp or not
